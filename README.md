@@ -1,4 +1,4 @@
-# Embedhelp
+# Embed help
 
 This package supports taking embedded items in a go binary and dumping them to the os.
 Perhaps you want to pack up a service file or dump the html and serve locally, this will facilitate that
